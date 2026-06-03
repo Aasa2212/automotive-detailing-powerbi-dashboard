@@ -21,5 +21,6 @@ an automotive detailing business in New Delhi.
 2. Service Analysis — service comparison, customer type, payment methods
 3. Customer Analysis — satisfaction scores, booking trends, repeat rate
 
-## Screenshots
-[Add your 3 screenshots here]
+<img width="1345" height="752" alt="Screenshot 2026-06-03 173203" src="https://github.com/user-attachments/assets/1eb5c99a-b960-432e-a499-acd5a218cced" />
+
+
