@@ -1,3 +1,5 @@
+<img width="1348" height="757" alt="Screenshot 2026-06-03 173350" src="https://github.com/user-attachments/assets/6cfacbdf-6ca7-40cd-aa4b-5a7b5beaf386" />
+<img width="1347" height="752" alt="Screenshot 2026-06-03 173311" src="https://github.com/user-attachments/assets/35b61859-dd17-4074-a97e-63b23707fd6a" />
 
 # Automotive Detailing Business Dashboard
 
